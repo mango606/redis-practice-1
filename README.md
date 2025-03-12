@@ -22,7 +22,11 @@
 - **연산 인터페이스**: `ValueOperations`, `SetOperations`, `HashOperations` 등을 활용하여 다양한 Redis 연산 수행한다.
    - `HashOperations`는 키-값 쌍의 복잡한 데이터 구조를 관리할 때 사용되며, 상대적으로 복잡한 사용 방법을 가진다.
 
+&nbsp;
+
 ---
+
+&nbsp;
 
 ## 실습2: Redis 설치 및 기본 명령어 사용해보기
 
