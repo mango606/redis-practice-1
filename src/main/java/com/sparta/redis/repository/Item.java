@@ -1,4 +1,4 @@
-package com.sparta.redis;
+package com.sparta.redis.repository;
 
 import lombok.*;
 import org.springframework.data.annotation.Id;

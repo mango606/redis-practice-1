@@ -1,5 +1,7 @@
 package com.sparta.redis;
 
+import com.sparta.redis.repository.Item;
+import com.sparta.redis.repository.ItemRepository;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
